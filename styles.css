@@ -107,7 +107,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url( );
+    background: url( 'img/direita4.svg') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
